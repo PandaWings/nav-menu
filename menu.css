@@ -95,6 +95,8 @@ header{
         .menu-v a:hover,
         .menu-v a:active{
             color: #3B687F;
+            font-style: italic;
+            font-size: 1.309em;
         }
 main{
     width:80%;
